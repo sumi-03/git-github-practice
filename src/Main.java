@@ -6,5 +6,6 @@ public class Main {
         System.out.print("java");
         System.out.print("java");
         System.out.print("java");
+        System.out.print("java");
     }
 }
